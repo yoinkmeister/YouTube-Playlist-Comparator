@@ -94,7 +94,7 @@ def playlistCompare(a , b):
 
 
 def printDuplicates(a, playlistname):
-    print("playlist " + playlistname + " has the following duplicates")
+    print("******* playlist " + playlistname + " has the following duplicates:")
     print("")
 
     duplicates = list(a.keys())
@@ -112,7 +112,7 @@ def printSizeofPlaylists(pl1n, pl2n, s1, s2):
     print("")
 
 def printPlaylists(a, message):
-    print(message)
+    print("******* " + message)
     print("   ")
 
     for i in a:
