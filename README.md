@@ -8,5 +8,5 @@ Also works for YouTube Music.
 1. substitute your own Google account developer key into the DEVELOPER_KEY variable in the main function.
 2. run the script
 3. put in information about playlist IDs that are asked in the prompts :)
-   &astPlaylist IDs are the characters after “list=” in the playlist's URL.
-   &astmake sure the playlists are public or unlisted.
+   \* Playlist IDs are the characters after “list=” in the playlist's URL.
+   \* make sure the playlists are public or unlisted.
