@@ -1,6 +1,7 @@
 # YouTube Playlist Comparator
 
 A script to compare two YouTube playlists when given their IDs.
+Shows which songs are present in which playlists and shows how many duplicates there are in each playlists.
 Also works for YouTube Music.
 
 # How To Use
